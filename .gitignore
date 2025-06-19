@@ -1,0 +1,45 @@
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/spec/examples.txt
+/test/tmp/
+/test/version_tmp/
+/tmp/
+/log/
+
+# Used by dotenv library to load environment variables.
+# .env
+
+# Documentation cache and generated files:
+/.yardoc/
+/_yardoc/
+/doc/
+/rdoc/
+
+# Environment normalization:
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/
+
+# RSpec state
+/spec/examples.txt
+
+# Gem specific
+Gemfile.lock
+
+# IDE files
+.idea/
+.vscode/
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
